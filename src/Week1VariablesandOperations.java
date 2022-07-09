@@ -10,13 +10,14 @@ public class Week1VariablesandOperations {
 		String customerName = "John";
 		String address = "779 4th St S";
 		
+		
+		
 		System.out.println(planeSeatsAvailable);
 		System.out.println(groceryCost);
 		System.out.println(middleInitial);
 		System.out.println(hotOutside);
 		System.out.println(customerName);
 		System.out.println(address);
-		
 
 	}
 
